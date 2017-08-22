@@ -18,6 +18,12 @@ let
         <a href="https://shell.knedlsepp.at">🐚 - shell.knedlsepp.at</a><br><br>
         <a href="https://uwsgi-example.knedlsepp.at">🐍 - uwsgi-example.knedlsepp.at</a><br><br>
         </center>
+        <center>
+        <h6>Impressum</h6>
+        <address>
+        <a href="https://github.com/knedlsepp">Josef Kemetmüller</a>
+        </address>
+        </center>
       </body>
       </html>
     '';
